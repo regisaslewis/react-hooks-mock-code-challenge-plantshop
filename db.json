@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Tiger Lily",
+      "image": "https://mygardenlife.com/wp-content/uploads/2022/12/6041_41-1.jpg",
+      "price": "22.45",
+      "id": 8
+    },
+    {
+      "name": "Bonsai Tree",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BBG_-_Carissa_macrocarpa_var._Horizontalis_-_Cascade_by_Frank_Okamura.jpg/1200px-BBG_-_Carissa_macrocarpa_var._Horizontalis_-_Cascade_by_Frank_Okamura.jpg",
+      "price": "223.45",
+      "id": 9
     }
   ]
 }
